@@ -21,3 +21,70 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+/* Escola */
+
+position: absolute;
+width: 1440px;
+height: 860px;
+left: 0px;
+top: 120px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 860px;
+left: 0px;
+top: 120px;
+
+background: linear-gradient(180deg, #383D58 0%, #4EBFE9 100%);
+
+
+/* A escola Alura foi fundada em 2010 com o objetivo de ensinar Pensamento Computacional através da Programação. A turma mais famosa é a Segunda Série A. Uma turma diversa e engajada, as vezes, um pouco bagunceira, mas que entrega excelentes resultados! */
+
+position: absolute;
+width: 722px;
+height: 332.42px;
+left: 173px;
+top: 454px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+/* Formula-amico 1 */
+
+position: absolute;
+width: 306px;
+height: 313px;
+left: 904px;
+top: 373px;
+
+background: url(Formula-amico);
+
+
+/* Sobre Escola */
+
+position: absolute;
+width: 307px;
+height: 32px;
+left: 173px;
+top: 403px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
